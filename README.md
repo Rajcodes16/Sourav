@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sourav Ghosh</h1>
 <h3 align="center">A passionate Software And AIML Developer</h3>
+<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/1lSUqtaDNCpQ8YqP6H_TAAN6yPPNptkvh/view?usp=sharing">
+
 
 - 🔭 I’m currently working on **AI/ML, including predictive models, computer vision, and NLP**
 
